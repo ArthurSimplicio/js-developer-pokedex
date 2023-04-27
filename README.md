@@ -1,4 +1,4 @@
-
+## My Pokedex
 ##### *O código apresenta duas funcionalidades, a primeira  é a exibição de uma lista de pokémons, obtidos da PokeAPI. No início, são exibidos 10 pokémons e há um botão para carregar mais 10. A lista é apresentada em cards, com o número, o nome, o tipo e a imagem de cada pokémon.*
 
 ##### *Foram utilizadas as bibliotecas Fetch e Promises para realizar as requisições à PokeAPI.*
