@@ -3,7 +3,7 @@
 
 ##### *Foram utilizadas as bibliotecas Fetch e Promises para realizar as requisições à PokeAPI.*
 
-##### *A segunda funcionalidade é a busca por um pokémon específico, que é realizada por meio da PokeAPI. Quando o usuário insere o nome do pokémon no campo de busca e clica no botão de pesquisa, o código faz uma requisição à PokeAPI e retorna os dados do pokémon buscado. É possível avançar ou retroceder entre os pokémons existentes clicando nos botões "Next" e "Prev".*
+##### *A segunda funcionalidade é a busca por um pokémon específico, que é realizada por meio da API Rest. Quando o usuário insere o nome do pokémon no campo de busca e clica no botão de pesquisa, o código faz uma requisição à PokeAPI e retorna os dados do pokémon buscado. É possível avançar ou retroceder entre os pokémons existentes clicando nos botões "Next" e "Prev".*
 
 
 
